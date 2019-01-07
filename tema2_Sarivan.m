@@ -35,6 +35,6 @@ w=-50*w0:w0:50*w0;
 stem(w/(2*pi),abs(X)),title('Spectrul lui x(t)');
 
 
-%Semnificatia fizica a SFR este aceea ca un semnal periodic poate fi vazut ca o 
+%Semnificatia fizica a SFC este aceea ca un semnal periodic poate fi vazut ca o 
 %suma (finita sau infinita) de sinusuri si cosinusuri (sau numai de cosinusuri, 
 %dar cu diferite faze initiale
