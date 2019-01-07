@@ -35,4 +35,7 @@ figure(2);
 w=-50*w0:w0:50*w0;
 stem(w/(2*pi),abs(X)),title('Spectrul lui x(t)');
 
+%Seriile Fourier sunt o unealtă matematică folosită pentru a analiza funcțiile periodice descompunându-le într-o sumă ponderată
+%de funcții sinusoidale componente care sunt denumite armonice.
+
 
